@@ -254,6 +254,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 **⭐ Star this repository if you found it helpful!**
 
-*Built with ❤️ using Apache Spark and Python on Kaggle*
+*Built using Apache Spark and Python on Kaggle*
 
 </div> 
