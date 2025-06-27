@@ -5,6 +5,40 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-red.svg)](https://www.kaggle.com/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
+## 📋 Table of Contents
+
+- [📊 Project Overview](#-project-overview)
+- [🎯 Key Objectives](#-key-objectives)
+- [🛠️ Technology Stack](#️-technology-stack)
+- [📈 Dataset Information](#-dataset-information)
+  - [Data Source](#data-source)
+  - [Data Schema](#data-schema)
+- [🔍 Analysis Implemented](#-analysis-implemented)
+  - [Crime Statistics by County](#-crime-statistics-by-county)
+  - [Monthly Crime Trends Analysis](#-monthly-crime-trends-analysis)
+  - [Crime Type Analysis by County](#-crime-type-analysis-by-county)
+- [🎨 Visualizations Created](#-visualizations-created)
+  - [Charts Implemented](#-charts-implemented)
+  - [Key Insights Visualized](#-key-insights-visualized)
+- [🚀 Technical Implementation](#-technical-implementation)
+  - [Data Processing Pipeline](#data-processing-pipeline)
+  - [Key Spark Operations Used](#key-spark-operations-used)
+- [📋 Project Structure](#-project-structure)
+- [🎯 Key Achievements](#-key-achievements)
+  - [Technical Skills Demonstrated](#-technical-skills-demonstrated)
+  - [Analysis Delivered](#-analysis-delivered)
+- [🛠️ Setup and Installation](#️-setup-and-installation)
+  - [Prerequisites](#prerequisites)
+  - [Running the Analysis on Kaggle](#running-the-analysis-on-kaggle)
+  - [Local Setup (Optional)](#local-setup-optional)
+- [📊 Sample Results](#-sample-results)
+- [👨‍💻 Author](#-author)
+- [📄 License](#-license)
+- [🤝 Contributing](#-contributing)
+- [📞 Contact](#-contact)
+
+---
+
 ## 📊 Project Overview
 
 This project demonstrates data analysis capabilities using **Apache Spark** to process and analyze crime data from three UK counties: **Kent**, **Leicestershire**, and **Derbyshire**. The analysis covers the entire year of 2022, providing insights into crime patterns and trends across these regions.
@@ -212,21 +246,6 @@ jupyter notebook
 |2022-12|                14976|  ← Lowest
 +-------+---------------------+
 ```
-
-## 🔮 Future Enhancements
-
-### Potential Improvements
-- **Machine Learning**: Predictive modeling for crime forecasting
-- **Real-time Processing**: Stream processing for live crime data
-- **Advanced Visualization**: Interactive dashboards using Plotly/Dash
-- **Geospatial Analysis**: Advanced mapping with Folium/GeoPandas
-- **Performance Optimization**: Spark tuning and optimization
-
-### Additional Analysis Opportunities
-- **Temporal Analysis**: Day-of-week and time-of-day patterns
-- **Correlation Analysis**: Weather, events, and crime relationships
-- **Predictive Analytics**: Crime forecasting models
-- **Resource Optimization**: Police resource allocation recommendations
 
 ## 👨‍💻 Author
 
